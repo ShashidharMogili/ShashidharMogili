@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ShashidharMogili
+- 👀 I’m interested in Ui/Ux, design responsive ui as FE specialist
+- 🌱 I’m currently learning mobile development
+- 💞️ I’m looking to collaborate on FLutter,kotlin,KMP
+- 📫 How to reach me - www.linkedin.com/in/shashidhar-m-3a93ab318
+- 😄 Pronouns: Sir
